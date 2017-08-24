@@ -1,5 +1,8 @@
 ## Welcome to Colossal RPG
 
+Colossal RPG is a small portland based buisness that handcrafts all kinds of things for your fantasy tabletop RPG game. We make; paper crafted miniatures, dice boxes, D&D fantasy cards, Dungeon Tiles, and accept art commissions for both custom miniatures and character portraits. Be sure to also check us out on twitter @Colossal_RPG. 
+
+
 You can use the [editor on GitHub](https://github.com/Joshkmalone18/joshkmalone18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
