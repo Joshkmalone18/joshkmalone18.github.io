@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Colossal RPG
 
 You can use the [editor on GitHub](https://github.com/Joshkmalone18/joshkmalone18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
